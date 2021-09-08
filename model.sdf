@@ -1,0 +1,7 @@
+<?xml version="2.0" ?>
+<sdf version="1.5">
+  <model name="box">
+    <pose>0 0 0.5 0 0 0</pose>
+    <static>false</static>
+  </model>
+</sdf>
